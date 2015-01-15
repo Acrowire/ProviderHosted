@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcrowireProvider100", "AcrowireProvider100\AcrowireProvider100.csproj", "{5BEB3BEB-9A27-4C59-BA9E-46190EFFD32B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcrowireProvider100Web", "AcrowireProvider100Web\AcrowireProvider100Web.csproj", "{6004C7B3-9344-49A0-994B-F994488E8BF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BEB3BEB-9A27-4C59-BA9E-46190EFFD32B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BEB3BEB-9A27-4C59-BA9E-46190EFFD32B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BEB3BEB-9A27-4C59-BA9E-46190EFFD32B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5BEB3BEB-9A27-4C59-BA9E-46190EFFD32B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BEB3BEB-9A27-4C59-BA9E-46190EFFD32B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BEB3BEB-9A27-4C59-BA9E-46190EFFD32B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6004C7B3-9344-49A0-994B-F994488E8BF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6004C7B3-9344-49A0-994B-F994488E8BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6004C7B3-9344-49A0-994B-F994488E8BF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6004C7B3-9344-49A0-994B-F994488E8BF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
